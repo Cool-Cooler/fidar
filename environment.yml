@@ -1,3 +1,8 @@
+# Env for Linux-x64 with 
+# cuda 110, 
+# python 3.7 
+# pytorch 1.7
+# detectron 0.4
 name: object_detect_proj
 channels:
   - defaults
@@ -184,5 +189,5 @@ dependencies:
     - torchvision==0.8.2+cu110
   - pip:
     - -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu110/torch1.7/index.html
-    - detectron2-0.4+cu110-cp37-cp37m-linux_x86_64.whl
+    - detectron2=0.4
 prefix: /users/pgrad/hegdeb/.conda/envs/object_detect_proj

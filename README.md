@@ -1,7 +1,7 @@
 fidar
 ==============================
 
-Fridge content detection
+Fridge content detection training the model from custom data set.
 
 Project Organization
 ------------
