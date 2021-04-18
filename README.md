@@ -1,7 +1,7 @@
 fidar
 ==============================
 
-Fridge content detection training the model from custom data set.
+Fridge content detection training the model from custom data set. Demo of Training with custom dataset can be found in notebooks/MultiClassTest.ipynb.
 
 Project Organization
 ------------
